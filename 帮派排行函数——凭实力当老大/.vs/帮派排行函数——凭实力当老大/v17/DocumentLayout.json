@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code_github\\moth\\\u5E2E\u6D3E\u6392\u884C\u51FD\u6570\u2014\u2014\u51ED\u5B9E\u529B\u5F53\u8001\u5927\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97C25B7B-31DC-4D1B-AB85-B277E7AD6BE4}|\u5E2E\u6D3E\u6392\u884C\u51FD\u6570\u2014\u2014\u51ED\u5B9E\u529B\u5F53\u8001\u5927\\\u5E2E\u6D3E\u6392\u884C\u51FD\u6570\u2014\u2014\u51ED\u5B9E\u529B\u5F53\u8001\u5927.vcxproj|D:\\code_github\\moth\\\u5E2E\u6D3E\u6392\u884C\u51FD\u6570\u2014\u2014\u51ED\u5B9E\u529B\u5F53\u8001\u5927\\\u5E2E\u6D3E\u6392\u884C\u51FD\u6570\u2014\u2014\u51ED\u5B9E\u529B\u5F53\u8001\u5927\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97C25B7B-31DC-4D1B-AB85-B277E7AD6BE4}|\u5E2E\u6D3E\u6392\u884C\u51FD\u6570\u2014\u2014\u51ED\u5B9E\u529B\u5F53\u8001\u5927\\\u5E2E\u6D3E\u6392\u884C\u51FD\u6570\u2014\u2014\u51ED\u5B9E\u529B\u5F53\u8001\u5927.vcxproj|solutionrelative:\u5E2E\u6D3E\u6392\u884C\u51FD\u6570\u2014\u2014\u51ED\u5B9E\u529B\u5F53\u8001\u5927\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "D:\\code_github\\moth\\\u5E2E\u6D3E\u6392\u884C\u51FD\u6570\u2014\u2014\u51ED\u5B9E\u529B\u5F53\u8001\u5927\\\u5E2E\u6D3E\u6392\u884C\u51FD\u6570\u2014\u2014\u51ED\u5B9E\u529B\u5F53\u8001\u5927\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "\u5E2E\u6D3E\u6392\u884C\u51FD\u6570\u2014\u2014\u51ED\u5B9E\u529B\u5F53\u8001\u5927\\\u6E90.cpp",
+              "ToolTip": "D:\\code_github\\moth\\\u5E2E\u6D3E\u6392\u884C\u51FD\u6570\u2014\u2014\u51ED\u5B9E\u529B\u5F53\u8001\u5927\\\u5E2E\u6D3E\u6392\u884C\u51FD\u6570\u2014\u2014\u51ED\u5B9E\u529B\u5F53\u8001\u5927\\\u6E90.cpp",
+              "RelativeToolTip": "\u5E2E\u6D3E\u6392\u884C\u51FD\u6570\u2014\u2014\u51ED\u5B9E\u529B\u5F53\u8001\u5927\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-09T13:32:24.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

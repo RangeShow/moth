@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "帮派排行函数——凭实力当老大", "帮派排行函数——凭实力当老大\帮派排行函数——凭实力当老大.vcxproj", "{97C25B7B-31DC-4D1B-AB85-B277E7AD6BE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C25B7B-31DC-4D1B-AB85-B277E7AD6BE4}.Debug|x64.ActiveCfg = Debug|x64
+		{97C25B7B-31DC-4D1B-AB85-B277E7AD6BE4}.Debug|x64.Build.0 = Debug|x64
+		{97C25B7B-31DC-4D1B-AB85-B277E7AD6BE4}.Debug|x86.ActiveCfg = Debug|Win32
+		{97C25B7B-31DC-4D1B-AB85-B277E7AD6BE4}.Debug|x86.Build.0 = Debug|Win32
+		{97C25B7B-31DC-4D1B-AB85-B277E7AD6BE4}.Release|x64.ActiveCfg = Release|x64
+		{97C25B7B-31DC-4D1B-AB85-B277E7AD6BE4}.Release|x64.Build.0 = Release|x64
+		{97C25B7B-31DC-4D1B-AB85-B277E7AD6BE4}.Release|x86.ActiveCfg = Release|Win32
+		{97C25B7B-31DC-4D1B-AB85-B277E7AD6BE4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1C59339-A106-41F7-9FA0-CF0F6E3B80A7}
+	EndGlobalSection
+EndGlobal
